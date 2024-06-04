@@ -2,6 +2,8 @@
 
 This repository compiles a comprehensive collection of learning period tasks completed at Synapse. Throughout the learning period, I delved into a diverse array of topics spanning exploratory data analysis (EDA), machine learning algorithms, deep learning architectures, computer vision techniques, and MLOps. The repository serves as a testament to my journey of mastering foundational and advanced concepts in data science and software engineering.
 
+(To view the notebooks, change the branch)
+
 # Tech Stack
 
 1. **Python**: The primary programming language used throughout the repository for its versatility and extensive support in the data science and web development communities.
